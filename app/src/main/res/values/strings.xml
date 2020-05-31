@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Dungeons and Data</string>
+    <string name="playeravatar">PlayerAvatar</string>
+    <string name="players">Players</string>
+    <string name="spells">Spells</string>
+    <string name="items">Items</string>
+    <string name="spell_name">Spell Name</string>
+    <string name="duration">Duration</string>
+    <string name="casting_time">Casting Time</string>
+    <string name="textview">TextView</string>
+    <string name="concentration">Concentration</string>
+    <string name="add_item">Add Item</string>
+    <string name="name">name</string>
+    <string name="value">value</string>
+    <string name="description">description</string>
+    <string name="save_item">Save Item</string>
+    <string name="item_name">Item Name</string>
+    <string name="item_value">Item Value</string>
+    <string name="item_description">Item Description</string>
+</resources>
